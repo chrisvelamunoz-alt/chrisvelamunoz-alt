@@ -74,8 +74,8 @@ Busco integrar mis 20 años de experiencia docente con el desarrollo de software
 
 ## 📩 Contacto
 
-- **Correo Electrónico:** [Tu correo aquí]
-- **LinkedIn:** [Enlace a tu perfil]
+- **Correo Electrónico:** [chris.vela.munoz@clases.edu.sv]
+- **LinkedIn:** []
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=004d99&height=30&section=footer" width="100%" />
