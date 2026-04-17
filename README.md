@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=004d99&height=200&section=header&text=Balmore%20Chris%20Vela&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://github.com/chrisvelamunoz-alt/chrisvelamunoz-alt/blob/90fe3093010a3e313cd741f0a910a78d5ab8b7ce/banner.png" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/tu-usuario/tu-repositorio/blob/main/foto_Chris_Vela.jpg?raw=true" width="180px" style="border-radius: 50%; border: 3px solid #004d99;" alt="Balmore Chris Josue Vela Muñoz">
+
 
   ### 👨‍🏫 Lic. en Computación | Microsoft Office Specialist | Multi-disciplinary Educator
   
