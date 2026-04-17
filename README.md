@@ -78,5 +78,5 @@ Busco integrar mis 20 años de experiencia docente con el desarrollo de software
 - **LinkedIn:** []
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=004d99&height=30&section=footer" width="100%" />
+  <img src="https://github.com/chrisvelamunoz-alt/chrisvelamunoz-alt/blob/b055f58eadf1e8481cfd983467d1a460cf794470/pie.png">
 </div>
